@@ -18,7 +18,7 @@ HTML e CSS.
 
 # Acesso ao projeto 
 
-[Deploy do projeto]()
+[Deploy do projeto](https://alura-plus-gilt-mu.vercel.app/)
 
 
 # Tecnologias utilizadas
